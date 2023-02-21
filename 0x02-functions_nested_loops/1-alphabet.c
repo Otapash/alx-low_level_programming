@@ -13,7 +13,7 @@ void print_alphabet(void)
 {
 	char lara = 'a';
 
-	while (lara = 'z')
+	while (lara <= 'z')
 	{
 		_putchar (lara);
 		lara++;
